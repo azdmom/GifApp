@@ -1,0 +1,31 @@
+button {
+        margin-left: 5px;
+        margin-top:20px;
+    }
+    
+   form {
+       font: bolder;
+       font-size: 25px;
+    }
+    
+    .couple-btn {
+        margin-left: 5px;
+        margin-top:20px;
+    }
+
+
+    .card {
+        display: none;
+        width: 90%;
+        margin: 0 auto; /* Added */
+        margin-bottom: 150px;
+        float: none; /* Added */
+        text-align: center;
+        overflow:auto; 
+    }     
+
+    .image, .rating {
+    margin-left: 10px;
+    /*position: relative;*/
+    }
+
